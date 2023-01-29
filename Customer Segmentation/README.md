@@ -1,5 +1,5 @@
 # K-Means-clustering
-#Customer Segmentation using Kmeans clustering
+Customer Segmentation using Kmeans clustering
 Mart sales data set consist of below 5 features
 Customer ID,Gender,Age,Annualincome,Spending score.
 Based on Annual income,spending score of the customer is predicted
